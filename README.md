@@ -6,4 +6,8 @@ pkg install git
 
 pkg install php
 
-git clone 
+git clone https://github.com/CandraRaxfi/Paketan-Tri-3-
+
+cd Paketan-Tri-3-
+
+php Tri.php
